@@ -4,6 +4,7 @@
 
 
 ![Screenshot oder GIF](screenshot.png)
+![Screenshot oder GIF](Screenshot.jpg)
 
 ## Idee
 
