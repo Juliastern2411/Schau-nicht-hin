@@ -2,8 +2,6 @@
 
 „Schau nicht hin“ ist ein interaktives Spiel, bei dem du mit deiner Aufmerksamkeit das Geschehen beeinflusst. Die Idee dahinter ist, zu zeigen, dass Beobachtung und Aufmerksamkeit selbst Auswirkungen haben können, manchmal ist Wegschauen die beste Hilfe.
 
-
-![Screenshot oder GIF](screenshot.png)
 ![Screenshot oder GIF](Screenshot.jpg)
 
 ## Idee
